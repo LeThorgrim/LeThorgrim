@@ -1,6 +1,6 @@
-Hi, I’m @LeThorgrim and I code often.
+Hi, I’m @LeThorgrim and I code sometimes.
 
-Contact : Thorgrim#9999 on discord
+Contact : thorggrim on discord
 
 <!---
 LeThorgrim/LeThorgrim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
