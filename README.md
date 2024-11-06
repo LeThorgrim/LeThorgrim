@@ -1,7 +1,10 @@
-Hi, I’m @LeThorgrim and I code sometimes.
-(but almost all my repos are private :p)
+# Hi, I’m @LeThorgrim and I code sometimes.
+*(but most of my repos are private :p)*
 
-Contact : 'thorggrim' on discord
+## Contacts : 
+**discord** : 'thorggrim' <br/>
+**mail** : thorgrim.marco.pro@gmail.com
+
 
 <!---
 LeThorgrim/LeThorgrim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
