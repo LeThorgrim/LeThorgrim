@@ -2,7 +2,7 @@
 *(but most of my repos are private :p)*
 
 ## Contacts : 
-**discord** : 'thorggrim' <br/>
+**discord** : 'theycallmethorgrim' <br/>
 **mail** : thorgrim.marco.pro@gmail.com
 
 
