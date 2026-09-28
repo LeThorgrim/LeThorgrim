@@ -1,5 +1,5 @@
 # Hi, I’m @LeThorgrim and I code sometimes.
-*(but most of my repos are private :p)*
+*(but most of my repos are private :p, moreover multiple repos are old school projects)*
 
 ## Contacts : 
 **discord** : 'theycallmethorgrim' <br/>
