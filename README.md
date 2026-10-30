@@ -2,7 +2,7 @@
 *(but most of my repos are private :p, moreover multiple repos are old school projects)*
 
 ## Check these out :
-**portfolio** : [Marco 'Thorgrim' Portfolio](https://lethorgrim.github.io/Portfolio-Thorgrim/)
+**portfolio** : [Marco 'Thorgrim' Portfolio](https://lethorgrim.github.io/Portfolio-Thorgrim/) <br/>
 **my map maker** : [Thorgrim Map Maker](https://thorgrim-map-maker.thorgrim-marco-pro.workers.dev/)
 
 ## Contacts : 
